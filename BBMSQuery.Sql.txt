@@ -18,7 +18,7 @@ end
 
  
 
-drop proc Donor_Registration
+
 --------------------------------------------------------------------------
 
  
@@ -77,7 +77,7 @@ select * from StockDetails
 
  
 
-drop table ReceiverDetails
+
 
  
 
